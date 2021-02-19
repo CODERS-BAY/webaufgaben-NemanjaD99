@@ -1,0 +1,50 @@
+
+
+body{background-image: url("https://i.pinimg.com/originals/f7/43/a8/f743a89ebf90e34be3c8869dc7636b3b.jpg");
+     background-size: cover;}
+    
+    
+
+#photo{
+    height: 5em;
+    width: 5em;
+}
+
+header
+{padding-left: 50%;
+color:white;
+font-family: Reggae One;
+}
+
+nav {
+    margin-left:50%;
+}
+
+nav a{
+    text-decoration: none;
+    padding-left:5%}
+    
+footer{
+    margin-left: 50%;
+}
+footer a{
+    text-decoration: none;
+    }
+    
+main{
+    padding-left: 46%;
+    color:white;
+    font-family:cursive;
+}
+#überschrift{padding-left: 50%;
+    color:white;
+    font-family: cursive;}
+.text, p{
+    font-family: cursive;
+    color:white;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap')
