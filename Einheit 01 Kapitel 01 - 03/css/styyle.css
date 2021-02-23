@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap');
 
 
 body{background-image: url("https://i.pinimg.com/originals/f7/43/a8/f743a89ebf90e34be3c8869dc7636b3b.jpg");
@@ -6,14 +7,25 @@ body{background-image: url("https://i.pinimg.com/originals/f7/43/a8/f743a89ebf90
     
 
 #photo{
-    height: 5em;
-    width: 5em;
+    height: 9em;
+    width: 7em;
 }
-
-header
-{padding-left: 50%;
+#photo1{
+    height: 9em;
+    width: 7em;
+}
+#haupt{
+    padding-left: 40%;
 color:white;
 font-family: Reggae One;
+}
+header
+{
+border: dimgrey 2px solid;
+border-radius: 2px;
+margin-right: 20em;
+margin-left: 25em;
+box-shadow: firebrick;
 }
 
 nav {
@@ -25,14 +37,24 @@ nav a{
     padding-left:5%}
     
 footer{
-    margin-left: 50%;
+    margin-top: 1%;
+    margin-left: 40%;
 }
 footer a{
     text-decoration: none;
+    color: black;
     }
     
+    #f1{
+        margin-top: 15%;
+        margin-left: 40%;
+    }
+    #f1 a{
+        text-decoration: none;
+        color: black;
+        }
 main{
-    padding-left: 46%;
+    padding-left: 35%;
     color:white;
     font-family:cursive;
 }
@@ -44,7 +66,25 @@ main{
     color:white;
 }
 
+@media screen and (max-width: 720px){}
+
+#news{color:white;
+    font-family: cursive;
+    font-size: medium;}
+
+#db{height: 10em;
+width: 10em;
+margin-top: -5em;
+margin-left: 20em;}
+
+#manga{height: 10em;}
+.art p{
+    font-size: small;
+}
 
 
-
-@import url('https://fonts.googleapis.com/css2?family=Reggae+One&display=swap')
+.art2 p{
+    font-size: small;
+}
+.art2 {margin-top:-20em ;
+    margin-left: 32em;}
