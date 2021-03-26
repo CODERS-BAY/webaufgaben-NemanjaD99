@@ -1,0 +1,24 @@
+body{background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ41hQaKujuPt4V2B0_p3XgkZZksrMaGntpeA&usqp=CAU");
+background-repeat:  no-repeat;
+background-size: cover;}
+nav{padding-left: 45%;
+}
+nav a{ 
+    border: black 2px dotted;
+    border-radius: 40%;
+    text-decoration: none;
+color: white;
+background-color: rgba(0, 0, 0, 0.425);}
+
+h1{
+    margin-left:45%;
+}
+table,th,td{border: 2px black solid;}
+#liste{color: white;
+background-color: rgba(0,0,0,0.5);}
+#infos{margin-left:35%;
+color: white;
+background-color: rgba(0,0,0,0.5)}
+
+label{font-size: large;
+background-color: rgba(255,255, 255,0.6);}

@@ -1,0 +1,232 @@
+@media(min-width:768px){}
+
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Cinzel:wght@500&display=swap');
+
+body{background-image: url("https://www.nintendo.com//content/dam/noa/en_US/games/switch/p/pokemon-shield-switch/pokemon-shield-switch-hero.jpg");
+background-repeat: no-repeat;
+background-attachment: scroll;
+background-size: cover;
+}
+header{background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,0.7960317916228992) 19%, rgba(255,228,228,0.7904295507265406) 19%, rgba(250,222,222,0.6587768896621149) 78%, rgba(255,255,255,0.7708217075892857) 79%);
+    background-repeat: no-repeat;
+background-size:500px;
+background-position:top;}
+
+header h1{padding-left: 47%;}
+nav{padding-left: 47%;
+}
+nav a{
+    font-family: 'Cinzel';
+    color: black ;
+    margin-left:5px;
+    border: black;
+    border-radius: 35%;
+text-decoration: none;}
+.mainroom a{
+font-family: 'Cinzel';
+   color:rgb(114, 87, 87);
+   text-decoration: none;
+}
+.charm{
+    height: 1.4em;
+    width: 1.4em;
+margin-bottom:-1.5em;
+margin-left: 5.5em;
+}
+.charmed{
+    height: 1.4em;
+    width: 1.4em;
+margin-bottom:-1.5em;
+margin-left: 9em;
+}
+.profile{
+    border:5px crimson solid;
+}
+.profiles{ border:5px crimson solid;
+background-color: white;
+background-color: rgba(255, 255, 255,0.5);}
+
+.hack{border:2px crimson solid;
+background-color: white;}
+
+.dak{
+    height: 3em;
+ margin-left: 1em;
+margin-bottom: 6em;}  
+.daku{position: absolute;
+    top: 27.2em;
+    left: 2em;
+    color: black;
+    background-color: white;
+} 
+
+.luc{height: 3em;
+margin-left: 2em;
+margin-bottom: 6em;
+}
+.luci{position: absolute;
+    top: 27.3em;
+    left: 7em;
+    color: black;
+background-color: white;
+} 
+
+.cin{height: 4em;
+margin-left: 2.5em;
+margin-bottom: 5em;}
+.cind{position: absolute;
+    top: 28.3em;
+    left: 12em;
+    color: black;
+background-color: white;}
+
+.rhy{height:4em;
+width: 5em;
+margin-left: -14em;
+margin-bottom: 0.5em;}
+.rhyp{position: absolute;
+    top: 32.6em;
+    left: 1.5em;
+    color: black;
+background-color: white;}
+
+.lit{height: 3em;
+margin-left: 1.5em;
+margin-bottom: 0.5em;}
+.litw{position: absolute;
+    top: 33em;
+    left: 7em;
+    color: black;
+background-color: white;}
+
+.tur{height: 4em;
+margin-left: 1.5em;
+margin-bottom: 0.2em;}
+.turt{position: absolute;
+    top: 32.6em;
+    left: 12em;
+    color: black;
+background-color: white;}
+
+.gym{padding-left : 50%;
+font-family: 'Bangers';}
+
+
+
+
+
+.remo{
+    height: 3.5em;
+    margin-bottom: 5em;
+    margin-left: 1em;
+}
+.text1{margin-top: -6.4em;
+        margin-left: 0.4em;}
+.remor{
+    height: 1%;
+    width: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+} 
+
+.ivy{ height: 3em;
+    margin-bottom: 4em;
+    margin-left: 0.5em;
+    }
+    .text2{margin-top: -5.1em;
+        margin-left: 1em;}
+.ivys{
+    margin-top: -6em;
+    margin-left: 6em;
+    height: 1%;
+    width: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+ 
+}
+
+.emo{height: 2rem;
+    margin-left: 1em;
+    margin-bottom: 5em;}
+.text3{margin-top: -5.2em;
+    margin-left: 1em;}
+.emol{
+    margin-top: -5.8em;
+    margin-left: 12em;
+    height: 1%;
+    width: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+
+.woo{height: 3rem;
+    margin-left: 0.5em;
+    margin-bottom: 4.8em;}
+
+ .text4{margin-top: -5.5em;
+        margin-left: 1em;}
+.woop{
+    margin-top: 1em;
+    margin-left: 0em;
+    height: 1%;
+    width: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+    }
+
+.vani{height: 5rem;
+    margin-left: 0.2em;
+    margin-bottom: 5em;}
+
+    .text5{margin-top: -6.5em;
+        margin-left: 1em;}
+
+.vanil{   
+    margin-top: -6.8em;
+    margin-left:6em;
+    height: 1%;
+    width: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.che{height: 5rem;
+    margin-left: 0.5em;
+    margin-bottom: 6em;}
+
+    .text6{margin-top: -7em;
+        margin-left: 0.5em;}
+
+.chew{
+    margin-top: -7.5em;
+    margin-left:12em;
+    height: 1%;
+    width: 5%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+.homeT{font-family: 'Bangers';}
+.maintext{font-family: 'Cinzel';}
+.shield{height: 1em;
+width: 10em;;
+}
+.pikachu-run{
+    width: 100px;
+  height: -10px;
+  transition: width 2s, height 2s, transform 2s;
+}
+.pikachu-run:hover {
+    width: 300px;
+    height: 300px;
+    transform: rotate(180deg);
+  }
+

@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zoo & Bewohner</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="info.html">InfoSeite</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <hr>
+
+    <form action="get" method="contact.html" >
+        <div><label for="Name">Name</label>
+            <input type="text" name="Name" placeholder="Max">
+        </div>
+
+        <div><label for="email">Email</label>
+            <input type="text" name="Name" placeholder="Max@mail.com" required>
+        </div>
+
+        <div> <label for="bt">Besuchs-tag</label>
+            <input type="date" name="Besuchdatum" required>
+        </div>
+
+        <div>
+            <label for="bz" name="Besuchszeit">Besuchszeit</label>
+            <input type="time" name="Besuchszeit">
+        </div>
+
+        <div>
+            <label for="gf" name="gefallen">Hat es dir gefallen?</label>
+            <input type="range" name="Hat es dir gefallen?">
+        </div>
+
+        <div>
+            <label for="jn" name="janein">Weiterempfehlen?</label>
+            <input type="checkbox" name="Hat es dir gefallen?" placeholder="yes">
+        </div>
+        <div>
+            <label for="choose">Welche Tierart hat am besten gefallen?</label>
+            <select>
+                <option value="op0">---Auswahl---</option>
+                <option value="op1">Husky</option>
+                <option value="op2">Königs Tieger</option>
+                <option value="op3">Orangutan</option>
+                <option value="op4">Eule</option>
+            </select>
+        </div>
+
+        <label for="comment" name="comment">Kommentar</label>
+        <div> <input type="textarea" name="Kommentar"  placeholder="kommetar">
+        </div>
+
+
+        <label for="choose">Besucherinfo:</label>
+        <div> <select>
+                <option value="op0">---Auswahl---</option>
+                <option value="op1">Familienausflug</option>
+                <option value="op2">Allein unterwegs</option>
+                <option value="op3">Gruppenausflug</option>
+                <option value="op4">Ausflug mit freunden</option>
+                <option value="opt5">was anderes</option>
+
+            </select>
+        </div>
+        <div>
+            <input type="text" name="wenn was anderes" id="wa" placeholder="wenn was anderes">
+        </div>
+        <br>
+        <input type="submit">
+
+
+
+
+    </form>
+</body>
+
+</html>
